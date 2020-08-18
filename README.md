@@ -1,1 +1,1 @@
-# -KonfHub-Intern-Test
+# KonfHub-Intern-Test
